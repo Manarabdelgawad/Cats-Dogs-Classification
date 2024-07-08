@@ -2,22 +2,21 @@
 
 Developed model classify images of cats  & dogs 
 
-Steps to Develop the Model
 
-Preprocessing Images
+1-Preprocessing Images
 
-Building the Model
+2-Building the Model
 
-Compiling and Fitting the Model
+3-Compiling and Fitting the Model
 
-Using Dropout and Early Stopping to Prevent Overfitting
+4-Using Dropout and Early Stopping to Prevent Overfitting
 
-Data Augmentation
+5-Data Augmentation
 
-Preparing Test Data
+6-Preparing Test Data
 
-Predicting Data
+7-Predicting Data
 
-Evaluating the Model
+8-Evaluating the Model
 
 
